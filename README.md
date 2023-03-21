@@ -1,6 +1,6 @@
 # This is a terraform repository.
 
-I will be uploading some terraform projects that I have worked on
+I will be uploading some terraform projects that I have worked on.
 
 TERRAFORM AND AWS CLI INSTALLATION:
 
