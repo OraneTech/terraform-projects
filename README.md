@@ -40,7 +40,9 @@ AWS Secret Access Key [None]: REPLACEWITHYOUROWNSECRETACCESSKEY/
 Default region name [None]: eu-west-1
 Default output format [None]: json
 
+
 # Verify if we are able to  list S3 buckets
+
 aws s3 ls
 
 # Command to reset your AWS credentials incase of a credentials error:
